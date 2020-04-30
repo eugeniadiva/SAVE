@@ -1,0 +1,21 @@
+.thank, .follow, .spread {
+	 font-family: sans-serif;
+	 font-size: 18px;
+	 font-weight: bold;
+	 border: 1px solid black;
+	 padding: 20px;
+	 margin: 20px;
+}
+ .thank {
+	 background-color: #bee5c4;
+}
+ .follow {
+	 background-color: #f9ab8e;
+}
+ .spread {
+	 background-color: #ff8080;
+}
+ a {
+	 margin-left: 10px;
+}
+ 

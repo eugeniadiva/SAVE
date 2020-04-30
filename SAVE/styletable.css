@@ -1,0 +1,22 @@
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+  width: 90%;
+  text-align: center;
+}
+
+th,td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+th {
+   background-color: lightgray;
+}
+
+body {
+  margin-left: 10px;
+}
+a {
+  margin-top:10px;
+}

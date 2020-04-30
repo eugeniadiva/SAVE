@@ -1,0 +1,17 @@
+ol {
+	 font-size: 18px;
+	 color: blue;
+}
+ div {
+	 font-size: 18px;
+	 margin-left: 10px;
+}
+ div p {
+	 color: #586589;
+	 font-weight: bold;
+   margin-top: 10px;
+}
+ div ul {
+	 font-size: 14px;
+	 color: blue;
+}

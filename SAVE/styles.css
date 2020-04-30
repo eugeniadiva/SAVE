@@ -1,0 +1,15 @@
+div {
+  color: blue;
+  margin-left: 40px;
+  padding:5px;
+}
+
+.name{
+  font-weight: bold;
+  color: green;
+}
+#head {
+  font-size: 36px;
+  color: red;
+  Margin: 10px;
+}

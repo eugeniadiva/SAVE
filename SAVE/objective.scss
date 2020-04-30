@@ -1,0 +1,22 @@
+$color: blue;
+
+ol {
+    font-size: 18px;
+    color: $color;
+}
+
+div {
+    font-size: 18px;
+    margin-left: 10px;
+
+    p {
+        color: #586589;
+        font-weight: bold;
+        margin-top:50px;
+    }
+
+    ul {
+        font-size: 14px;
+        color: $color;
+    }
+}
